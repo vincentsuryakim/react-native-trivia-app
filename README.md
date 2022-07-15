@@ -2,6 +2,9 @@
 
 [![CircleCI](https://circleci.com/gh/infinitered/ignite.svg?style=svg)](https://circleci.com/gh/infinitered/ignite)
 
+This project is based on https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-1-1987cc6e93a1 (Part 1) and https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-ii-a286a978d0c8 (Part 2)
+for learning React Native with Ignite.
+
 ## The latest and greatest boilerplate for Infinite Red opinions
 
 This is the boilerplate that [Infinite Red](https://infinite.red) uses as a way to test bleeding-edge changes to our React Native stack.
